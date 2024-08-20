@@ -26,7 +26,7 @@ Matplotlip & Seaborn for visualization </p>
  <p>In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
 
 Thank you for reviewing my submission!</p>
-<h1>Contact</h1>
+<h1>📬 Contact</h1>
 <div>
   <strong>Contact</strong><br>
   For any inquiries or feedback regarding this project, please contact:<br><br>
